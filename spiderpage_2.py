@@ -8,8 +8,7 @@ import pandas as pd
 #     'name':['wang','liu','zhang'],
 #     'sex':['F','M','F']
 # }
-# data = pd.DataFrame(info)
-# print(data)
+
 
 
 header = {
